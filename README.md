@@ -1,6 +1,6 @@
 # 👋 Hey I'm Marcos Paulo!
 <div align="center">
-  26 years old 🇧🇷 guy who loves technology.
+  27 years old 🇧🇷 guy who loves technology.
 </div>
 <div align="center">
 🧪 Take a look at my Elixir projects 🧪
